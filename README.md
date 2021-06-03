@@ -1,4 +1,4 @@
-# DES-Algorithm-implementation-in-C
+# DES-algorithm-implementation-in-C
 This is my own implementation of the Data Encryption Standard using C
 
 This project provides functions for both the encryption and the decryption part
